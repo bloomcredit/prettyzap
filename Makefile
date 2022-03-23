@@ -1,5 +1,5 @@
 GOCMD=go
-GOPRIVATE=github.com/bluemoon/*
+GOPRIVATE=github.com/bloomcredit/*
 GOBUILD=$(GOCMD) build
 GOENV=$(GOCMD) env
 GOCLEAN=$(GOCMD) clean
