@@ -1,4 +1,4 @@
-module github.com/bluemoon/prettyzap
+module github.com/bloomcredit/prettyzap
 
 go 1.16
 
